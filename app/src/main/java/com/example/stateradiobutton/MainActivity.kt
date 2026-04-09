@@ -2,13 +2,10 @@ package com.example.stateradiobutton // Убедитесь, что имя пак
 
 import android.os.Bundle
 import android.widget.RadioButton
-import android.widget.RadioGroup
-import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
 // ВАЖНО: импортируйте ваш класс Binding
-// Если ваш пакет com.example.stateradiobutton, то импорт будет:
 import com.example.stateradiobutton.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
